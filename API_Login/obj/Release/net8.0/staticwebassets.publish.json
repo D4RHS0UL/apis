@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ynP9wdMQuVahzf7+zh8Sccd4hLdXIAD82r2GY0ILgwI=",
+  "Source": "API_Login",
+  "BasePath": "_content/API_Login",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
